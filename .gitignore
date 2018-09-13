@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+grades.so
+grades.dylib
+grades.dll
+grades.a
+grades
+grades.lib
+grades-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,9 @@
+{
+	"name": "grades",
+	"authors": [
+		"Talen Fisher"
+	],
+	"description": "Application for computing weighted grades",
+	"copyright": "Copyright © 2018, Talen Fisher",
+	"license": "proprietary"
+}
