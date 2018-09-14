@@ -1,0 +1,2 @@
+# Grades
+Unaware of what your weighted grades are in class but don't want to bug your professor?  Me too, so I created this application in D to calculate them for me.  To run this application, simply clone the repository and run [dub](https://code.dlang.org/download) (which will both compile and run the application). Currently, this is a barebones application, with classes and grades manually added in app.d.  In future versions, I plan to add an interface for adding classes and assignments, along with data persistence.  
