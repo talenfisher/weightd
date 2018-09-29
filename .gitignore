@@ -9,6 +9,7 @@ grades.a
 grades
 grades.lib
 grades-test-*
+weightd
 *.exe
 *.o
 *.obj

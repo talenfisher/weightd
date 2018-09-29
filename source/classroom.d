@@ -3,6 +3,7 @@ import assignment, std.stdio;
 class ClassRoom {
 
     private double[string] weights;
+    
     private Assignment[string] assignments;
 
     void setWeight(string className, double weight) {
